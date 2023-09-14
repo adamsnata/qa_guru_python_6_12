@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+venv
+.idea
+data/__pycache__/
+models/__pycache__/
+tests/__pycache__/
+tests/allure-results/
+utils/__pycache__/
